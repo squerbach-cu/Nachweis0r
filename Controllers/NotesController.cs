@@ -1,10 +1,7 @@
-﻿using System.Diagnostics;
-using System.Security.Claims;
-using AutoMapper;
+﻿using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Nachweis0r.Data;
 using Nachweis0r.Models;
 
