@@ -1,6 +1,8 @@
-﻿namespace Nachweis0r.Models;
+﻿using Microsoft.AspNetCore.Identity;
 
-public class User
+namespace Nachweis0r.Models;
+
+public class User : IdentityUser
 {
     
 }

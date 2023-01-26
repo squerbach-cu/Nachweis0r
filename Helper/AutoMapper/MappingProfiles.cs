@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Nachweis0r.Models;
 
-namespace Nachweis0r.Areas.AutoMapper;
+namespace Nachweis0r.Helper.AutoMapper;
 
 public class MappingProfiles : Profile
 {

@@ -1,6 +1,8 @@
-﻿namespace Nachweis0r.Models;
+﻿using Microsoft.AspNetCore.Identity;
 
-public class Role
+namespace Nachweis0r.Models;
+
+public class Role : IdentityRole
 {
     
 }
